@@ -1,3 +1,3 @@
-module github.com/hugo-porto/theme
+module github.com/aizhimou/hugo-porto-theme
 
-go 1.22
+go 1.24
